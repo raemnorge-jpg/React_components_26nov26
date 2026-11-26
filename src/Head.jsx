@@ -3,7 +3,10 @@ import React from 'react'
 
 const Head = () => {
   return (
+    <>
    <PhoneCall size={16} color="#00e3ff" />
+   <MessageCircleText size={16} color="#00e3ff" />
+    </>
   )
 }
 
