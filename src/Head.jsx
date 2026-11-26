@@ -1,4 +1,5 @@
 import { PhoneCall } from 'lucide-react'
+import { MessageCircleText } from 'lucide-react'
 import React from 'react'
 
 const Head = () => {
